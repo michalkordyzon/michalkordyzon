@@ -3,8 +3,8 @@
 ## 🔭 I’m currently working on
 - IBM RPA bots
 - LNN framework to add reasoning to RPA bots
-- ...free slot here...
-
+- ML models running on Watson services
+ 
 ## 💾 For Projects see my site: 
 https://michalkordyzon.github.io/
 
