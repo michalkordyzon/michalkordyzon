@@ -5,7 +5,7 @@
 - LNN framework to add reasoning to RPA bots
 - ML models running on Watson services
  
-## 💾 For Projects visit this site: 
+## 💾 For my projects, interest, and publications visit github.io site: 
 https://michalkordyzon.github.io/
 
 
