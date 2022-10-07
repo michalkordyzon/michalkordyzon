@@ -3,7 +3,7 @@
 ## 🔭 I’m currently working on
 - IBM RPA bots
 - LNN framework to add reasoning to RPA bots
-- ML models running on Watson services (with Explainability and Fairness)
+- ML models running on Watson services (to get Explainability and Fairness)
  
 ## 💾 For my projects, interest, and publications visit github.io site: 
 https://michalkordyzon.github.io/
