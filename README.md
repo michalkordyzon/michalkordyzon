@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on
-- IBM RPA bots
+- building dashboards & data flows for Cognos Analytics 
 - LNN framework to add reasoning to RPA bots
 - ML models running on Watson services (to get Explainability and Fairness)
  
