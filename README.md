@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ## 🔭 I’m working on:
-- building dashboards & data flows for Cognos Analytics 
+- Building dashboards & data flows for Cognos Analytics 
 - LNN framework to add reasoning to RPA bots
 - ML models running on Watson services (to get Explainability and Fairness)
  
-## 💾 Stuff I've done: 
+## 💾 Things I've done: 
 https://michalkordyzon.github.io/
 
 
