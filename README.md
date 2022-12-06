@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-## 🔭 I’m currently working on
+## 🔭 I’m working on:
 - building dashboards & data flows for Cognos Analytics 
 - LNN framework to add reasoning to RPA bots
 - ML models running on Watson services (to get Explainability and Fairness)
  
-## 💾 For my projects, interest, and publications visit github.io site: 
+## 💾 Stuff I've done: 
 https://michalkordyzon.github.io/
 
 
-## 📫 How to reach me
+## 📫 How to reach me:
 <https://www.linkedin.com/in/michalkordyzon/>
 
 ## ⚡ Statistics
