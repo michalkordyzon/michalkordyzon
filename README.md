@@ -14,7 +14,7 @@ https://michalkordyzon.github.io/
 
 ## 🌱 I’m currently learning:
 - NLP
-- AI Alignment in NLP
+- AI Alignment(https://arxiv.org/abs/2203.02155, https://arxiv.org/abs/2212.08073)
 
 ## ⚡ Statistics
 
