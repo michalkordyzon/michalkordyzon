@@ -12,6 +12,10 @@ https://michalkordyzon.github.io/
 ## 📫 How to reach me:
 <https://www.linkedin.com/in/michalkordyzon/>
 
+## 🌱 I’m currently learning:
+- NLP
+- AI Alignment in NLP
+
 ## ⚡ Statistics
 
 <div>
