@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ## 🔭 I’m working on:
-- Data wrangling, building dashboards, buidling data flows in Cognos Analytics 
-- LNN framework to add reasoning to RPA bots
-- Running machine learning models on Watson services ond IBM Cloud (to get Explainability and Fairness)
+- Data wrangling, data flows & dashboards building. All this on IBM Cloud & Cloud Pak for Data.
+- Migrating machine learning models top Watson services ond IBM Cloud (to get Explainability, Fairness and more) 
+- Deep diving on Logical Neural Network framework to add reasoning to RPA bots.
+
  
-## 💾 Things I've done: 
+## 💾 My interests and some projects: 
 https://michalkordyzon.github.io/
 
 
