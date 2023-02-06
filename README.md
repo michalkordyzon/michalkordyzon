@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🔭 I’m working on:
-- Data wrangling, data flows & dashboards building. All this on IBM Cloud & Cloud Pak for Data.
+- Using Watson NLP and data alignment for simple client use cases. 
 - Migrating machine learning models to Watson services ond IBM Cloud (to get Explainability, Fairness and more) 
 - Deep diving on Logical Neural Network framework to add reasoning to RPA bots.
 
