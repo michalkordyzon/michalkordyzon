@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-## 🔭 I’m working on:
-- Using Watson NLP and data alignment for simple client use cases. 
-- Migrating machine learning models to Watson services ond IBM Cloud (to get Explainability, Fairness and more) 
-- Deep diving on Logical Neural Network framework to add reasoning to RPA bots.
+## 🔭 Currently I’m working on:
+- NLP & AI alignment.
+- risk analysis for banking.
 
  
 ## 💾 My interests and some projects: 
@@ -13,9 +12,6 @@ https://michalkordyzon.github.io/
 ## 📫 How to reach me:
 <https://www.linkedin.com/in/michalkordyzon/>
 
-## 🌱 I’m currently learning:
-- NLP
-- AI Alignment(https://arxiv.org/abs/2203.02155, https://arxiv.org/abs/2212.08073)
 
 ## ⚡ Statistics
 
