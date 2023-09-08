@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🔭 Currently I’m working on:
-- NLP & AI alignment.
+- NLP, Generative AI & AI alignment.
 - risk analysis for banking.
 
  
