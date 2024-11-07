@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## 🔭 Currently I’m working on:
-- NLP, Generative AI & AI alignment.
-- risk analysis for banking.
+- watsonx.ai
+- watsonx.data
 
  
 ## 💾 My interests and some projects: 
