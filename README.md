@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20data%20scientist%20andAI%20Engineer;I%2B%love%20building%20,%20coding%20and%20people;Curious%20and%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
 ## 🔭 Currently I’m working on:
 - watsonx.ai
 - watsonx.data
