@@ -12,6 +12,7 @@ https://michalkordyzon.github.io/
 ## 📫 How to reach me:
 <https://www.linkedin.com/in/michalkordyzon/>
 
+[![GitHub Streak](https://github-readme-streak-stats-gamma-taupe.vercel.app?user=michalkordyzon&theme=buefy-dark)](https://git.io/streak-stats)
 
 ## ⚡ Statistics
 
