@@ -15,8 +15,7 @@ https://michalkordyzon.github.io/
 
 ## ⚡ Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats-gamma-taupe.vercel.app?user=michalkordyzon&theme=graywhite)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-gamma-taupe.vercel.app?user=michalkordyzon&theme=graywhite&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
  </div>
 
