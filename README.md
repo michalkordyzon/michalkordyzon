@@ -8,7 +8,8 @@
 </p>
 
 
-## 🔭 Currently I’m working on:
+## 🔭 Currently I’m working with:
+- pytorch
 - watsonx.ai
 - watsonx.data
 
