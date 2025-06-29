@@ -9,7 +9,7 @@
 
 
 ## 🔭 Currently I’m working with:
-- pytorch (I am very bullish on pytorch :) ) 
+- pytorch (my go-to framework for DL projects) 
 - watsonx.ai
 - watsonx.data
 
