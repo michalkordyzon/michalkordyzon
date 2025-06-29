@@ -9,7 +9,7 @@
 
 
 ## 🔭 Currently I’m working with:
-- pytorch
+- pytorch (I am very bullish on pytorch :) ) 
 - watsonx.ai
 - watsonx.data
 
