@@ -15,8 +15,8 @@
 
  
 ## 💾 My interests and some projects: 
-https://mlog.space/
-https://michalkordyzon.github.io/
+- https://mlog.space/
+- https://michalkordyzon.github.io/
 
 
 ## 📫 How to reach me:
