@@ -9,7 +9,7 @@
 
 
 ## 🔭 Currently I’m working on:
-- quant development & altorithmic trading 🔥🔥🔥
+- quant development & algorithmic trading 🔥🔥🔥
 - some pytorch
 - best data platform for enteprise: 🎉 ibm watsonx 🎉
 
