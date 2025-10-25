@@ -8,10 +8,10 @@
 </p>
 
 
-## 🔭 Currently I’m working with:
-- pytorch (my go-to framework for DL projects) 
-- watsonx.ai
-- watsonx.data
+## 🔭 Currently I’m working on:
+- quant development & altorithmic trading 🔥🔥🔥
+- some pytorch
+- best data platform for enteprise: 🎉 ibm watsonx 🎉
 
  
 ## 💾 My interests and some projects: 
