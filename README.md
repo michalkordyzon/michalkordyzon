@@ -14,7 +14,7 @@
 - [beeAI](https://beeai.dev/) and MCP Agent architecture 🔥🔥🔥
 
  
-## 💾 My interests and some projects: 
+## 💾 You will find my interests and activitties here: 
 - https://mlog.space/
 - https://michalkordyzon.github.io/
 
