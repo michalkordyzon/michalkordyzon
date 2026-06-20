@@ -9,8 +9,10 @@
 
 
 ## 🔭 Currently I’m working on:
-- data governance on: 🎉 [ibm watsonx.data](https://github.com/IBM/watsonx-data) 🎉
+- AI engineering & data science using [Granite models](https://huggingface.co/ibm-granite) and [Bob](https://bob.ibm.com/)
+- data pipelines, integration and governance on: [ibm watsonx.data](https://github.com/IBM/watsonx-data)
 
+ 
  
 ## 💾 You will find my interests and activitties here: 
 - https://mlog.space/
